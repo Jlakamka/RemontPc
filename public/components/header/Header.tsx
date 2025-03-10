@@ -1,9 +1,14 @@
+import "./header.css";
 export default function Header() {
   return (
-    <header>
-      <li>
-        <ul>Главная</ul>
-        <ul>Контакты</ul>
+    <header className="header">
+      <li className="header__list">
+        <ul>
+          <h2>Главная</h2>
+        </ul>
+        <ul>
+          <h2>Контакты</h2>
+        </ul>
       </li>
     </header>
   );

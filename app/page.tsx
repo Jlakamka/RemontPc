@@ -96,7 +96,7 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer> */}
-      <div>Максим лох</div>
+      <div>Максим лох.</div>
     </div>
   );
 }

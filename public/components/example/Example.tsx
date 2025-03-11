@@ -17,6 +17,7 @@ export default function Example() {
   ];
   return (
     <section className="container example">
+      <h3>Примеры наших работ</h3>
       <div className="example__images">
         {exampleDate.map((el) => (
           <Image src={el} alt="image" className="example__image" />

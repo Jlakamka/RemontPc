@@ -6,7 +6,12 @@ export default function Contacts() {
   return (
     <>
       <Header />
-      <Information />
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe quam
+        error consequatur cupiditate ipsam, eligendi quidem pariatur dignissimos
+        repudiandae eum dolores quaerat soluta porro tempora harum recusandae
+        qui fugiat vel?
+      </p>
     </>
   );
 }

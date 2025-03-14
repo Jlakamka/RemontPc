@@ -21,7 +21,8 @@
 
 body {
   background: var(--background);
-  color: var(--foreground);
+  /* color: var(--foreground); */
+  color: #413e52;
   font-family: Arial, Helvetica, sans-serif;
   /* background-color: #0a0a0a; */
   max-width: 1296px;
@@ -29,11 +30,11 @@ body {
 }
 h2 {
   font-size: 20px;
-  color: blue;
+  /* color: blue; */
 }
 h3 {
   font-size: 42px;
-  color: blue;
+  /* color: blue; */
   text-align: center;
 }
 .main {

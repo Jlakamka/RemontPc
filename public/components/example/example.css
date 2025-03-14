@@ -17,4 +17,5 @@
 }
 .example__image {
   max-width: 32%;
+  border: solid #5c5cff 2px;
 }

@@ -3,6 +3,7 @@ import Example from "@/public/components/example/Example";
 import Footer from "@/public/components/footer/Footer";
 import Header from "@/public/components/header/Header";
 import Information from "@/public/components/information/Information";
+import Services from "@/public/components/services/Services";
 
 export default function Home() {
   return (
@@ -10,8 +11,8 @@ export default function Home() {
       <Header />
       <Information />
       <Example />
-      <About />
-      {/* <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]"></div> */}
+      <Services />
+      {/* <About /> */}
       <Footer />
     </>
   );
